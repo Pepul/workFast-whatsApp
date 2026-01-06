@@ -1,0 +1,21 @@
+.container {
+  max-width: 900px;
+  margin: 48px auto;
+  padding: 0 16px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 28px;
+  box-shadow: 0 6px 20px rgba(12, 15, 20, 0.08);
+  border: 1px solid rgba(2,6,23,0.04);
+}
+
+.title { font-size: 28px; margin: 0; color: #0f172a; }
+.lead { color: #334155; font-size: 16px; margin-top: 12px; line-height: 1.6; }
+.sectionTitle { margin-top: 20px; font-size: 18px; color: #0f172a; }
+.list { padding-left: 20px; color: #475569; }
+.contact { margin-top: 16px; background: #f8fafc; padding: 12px; border-radius: 8px; }
+.email { font-weight: 600; color: #0b5fff; }
+.muted { color: #64748b; }
