@@ -340,6 +340,38 @@ export default function PaymentSuccessPage() {
                       </div>
                     </div>
                   </div>
+
+                  <div className={styles.section}>
+                    <h2 className={styles.sectionTitle}>Need help?</h2>
+                    <div className={styles.kv}>
+                      <div className={styles.kvRow}>
+                        <div className={styles.kvKey}>Email</div>
+                        <div className={styles.kvValue}>
+                          <a
+                            className={styles.inlineLink}
+                            href="mailto:support@uniqbrio.com"
+                          >
+                            support@uniqbrio.com
+                          </a>
+                        </div>
+                      </div>
+                      <div className={styles.kvRow}>
+                        <div className={styles.kvKey}>Mobile</div>
+                        <div className={styles.kvValue}>
+                          <a
+                            className={styles.inlineLink}
+                            href="tel:+918056329742"
+                          >
+                            +91-8056329742
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className={styles.metaNote}>
+                      Share your order ID when contacting support for faster
+                      assistance.
+                    </div>
+                  </div>
                 </div>
               )}
 
