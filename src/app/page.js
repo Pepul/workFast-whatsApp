@@ -26,7 +26,7 @@ export default function Home() {
         <aside className={styles.right}>
           <a className={styles.cta} href="mailto:support@workfast.ai">Contact Support</a>
           <div className={styles.infoBox}>
-            Need help integrating with your business? Email us and we'll assist
+            Need help integrating with your business? Email us and we&apos;ll assist
             with the n8n workflow setup.
           </div>
         </aside>
