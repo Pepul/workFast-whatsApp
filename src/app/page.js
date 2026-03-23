@@ -12,7 +12,7 @@ export default function Home() {
           <h1 className={styles.title}>Welcome to WorkFast WhatsApp Integration</h1>
           <p className={styles.subtitle}>
             Automate appointment bookings and confirmations over WhatsApp using
-            n8n workflows. Fast to set up, simple to use.
+            workfast ai workflows. Fast to set up, simple to use.
           </p>
 
           <div className={styles.features}>
@@ -27,7 +27,7 @@ export default function Home() {
           <a className={styles.cta} href="mailto:support@workfast.ai">Contact Support</a>
           <div className={styles.infoBox}>
             Need help integrating with your business? Email us and we&apos;ll assist
-            with the n8n workflow setup.
+            with the workfast ai workflow setup.
           </div>
         </aside>
       </div>

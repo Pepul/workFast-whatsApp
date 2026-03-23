@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
         <h2 className={styles.sectionTitle}>How We Use the Information</h2>
         <p className={styles.lead}>
           The collected information is used only for scheduling, confirming,
-          and managing appointments via WhatsApp automation using n8n workflows.
+          and managing appointments via WhatsApp automation using workfast ai workflows.
         </p>
 
         <h2 className={styles.sectionTitle}>Data Sharing</h2>
